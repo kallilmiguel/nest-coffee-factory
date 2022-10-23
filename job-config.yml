@@ -1,5 +1,7 @@
 active: true
 name: nest-coffee-factory
+type: httpTrigger
+authLevel: anonymous
 parameters:
   param1: string
   param2: int
