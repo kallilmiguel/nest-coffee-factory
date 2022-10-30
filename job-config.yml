@@ -1,4 +1,4 @@
-active: true
+isActive: true
 name: nest-coffee-factory
 type: httpTrigger
 authLevel: anonymous
